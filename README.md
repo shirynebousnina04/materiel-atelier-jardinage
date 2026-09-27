@@ -6,7 +6,7 @@ Jeu pédagogique en français pour associer les images de 39 objets à leur nom 
 
 https://shirynebousnina04.github.io/materiel-atelier-jardinage/
 
-Choisir une image, puis son nom. Séries de six objets, correction immédiate et bilan de fin de partie. Interface adaptée aux téléphones, tablettes et ordinateurs. Aucun compte, cookie, publicité ou collecte de données.
+Étape 1 : retrouver le nom des 39 objets, par séries de six, en faisant glisser chaque nom sur la bonne image. Étape 2 : ranger tous les objets dans le bon bac (laboratoire, aquarium ou jardinage). Toucher un élément puis sa destination fonctionne aussi. À la fin, le bouton « Télécharger la fiche » propose une feuille A4 du matériel trié par catégorie, à enregistrer en PDF ou à imprimer. Les objets sont mélangés, sans indication de catégorie. Correction immédiate et bilan de fin de partie. Interface adaptée aux téléphones, tablettes et ordinateurs. Aucun compte, cookie, publicité ou collecte de données.
 
 ## Fichier autonome
 
